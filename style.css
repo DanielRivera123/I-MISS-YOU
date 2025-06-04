@@ -316,7 +316,7 @@ transition: all 0.8s ease-in-out;
 
 
   /*PHONES SCREEN*/
-@media (max-width:926px ){
+@media (max-width:844px ){
   html,
 body {
   overflow: hidden;
